@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Куюнджик/1.0.0": {
+        "dependencies": {
+          "StringMath": "3.0.2"
+        },
+        "runtime": {
+          "Куюнджик.dll": {}
+        }
+      },
+      "StringMath/3.0.2": {
+        "runtime": {
+          "lib/netcoreapp3.1/StringMath.dll": {
+            "assemblyVersion": "3.0.2.0",
+            "fileVersion": "3.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Куюнджик/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringMath/3.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cWsObyRDEy1L9w8Vy+BDxy8fGZyKEM7PGbGG6I8lBitk1hWDwiFBeBCf0GzRuMt4T3SLv01BpOUJ6muEe1TF5Q==",
+      "path": "stringmath/3.0.2",
+      "hashPath": "stringmath.3.0.2.nupkg.sha512"
+    }
+  }
+}
